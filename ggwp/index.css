@@ -1,0 +1,484 @@
+.parent {
+  background-color: rgb(62, 62, 62);
+}
+.parent .HOME {
+  position: fixed;
+  width: 100vw;
+  height: 80px;
+  background-color: white;
+}
+.parent .HOME .p1 {
+  color: black;
+  margin-left: 500px;
+}
+.parent .HOME .p1 .span1 {
+  color: yellowgreen;
+}
+.parent .HOME .p1 span {
+  margin-left: 30px;
+}
+.parent .N1 {
+  background-color: gray;
+  width: 100vw;
+  height: 100vh;
+}
+.parent .N1 p {
+  color: white;
+  position: absolute;
+}
+.parent .N1 .p2 {
+  top: 100px;
+  left: 650px;
+  font-size: 50px;
+}
+.parent .N1 .p3 {
+  top: 150px;
+  left: 520px;
+  font-size: 70px;
+}
+.parent .N1 .p4 {
+  top: 300px;
+  left: 660px;
+}
+.parent .N2 {
+  width: 100vw;
+  height: 620vh;
+  position: relative;
+  background-color: rgb(45, 45, 45);
+}
+.parent .N2 .p5 {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  left: 650px;
+}
+.parent .N2 .st1 {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+.parent .N2 .st2 {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  left: 900px;
+  top: 100px;
+}
+.parent .N2 .blok1 {
+  position: absolute;
+  top: 200px;
+  left: 170px;
+}
+.parent .N2 .blok1 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok1 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok1 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok1 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok2 {
+  position: absolute;
+}
+.parent .N2 .blok2 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok2 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok2 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok2 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok3 {
+  position: absolute;
+}
+.parent .N2 .blok3 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok3 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok3 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok3 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok4 {
+  position: absolute;
+}
+.parent .N2 .blok4 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok4 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok4 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok4 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok5 {
+  position: absolute;
+  left: 700px;
+  bottom: 790px;
+}
+.parent .N2 .blok5 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok5 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok5 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok5 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok6 {
+  position: absolute;
+}
+.parent .N2 .blok6 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok6 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok6 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok6 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok7 {
+  position: absolute;
+}
+.parent .N2 .blok7 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok7 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok7 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok7 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .blok8 {
+  position: absolute;
+}
+.parent .N2 .blok8 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blok8 .gray1 .cal {
+  font-size: 13px;
+  color: white;
+}
+.parent .N2 .blok8 .gray1 .green {
+  color: greenyellow;
+}
+.parent .N2 .blok8 .gray1 .con {
+  color: rgb(93, 92, 92);
+  width: 430px;
+}
+.parent .N2 .n3 {
+  position: absolute;
+  width: 1000px;
+  height: 520px;
+  right: 100px;
+  top: 450px;
+}
+.parent .N2 .n3 .fot {
+  position: absolute;
+  top: 50px;
+  width: 500px;
+  height: 400px;
+  background-color: white;
+}
+.parent .N2 .n3 .p6 {
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  left: 650px;
+}
+.parent .N2 .n3 .p7 {
+  position: absolute;
+  width: 400px;
+  font-size: 25px;
+  color: gray;
+  left: 540px;
+  top: 80px;
+}
+.parent .N2 .n3 .p8 {
+  position: absolute;
+  width: 400px;
+  color: gray;
+  left: 540px;
+  top: 220px;
+}
+.parent .N2 .n3 .button1 {
+  position: absolute;
+  left: 550px;
+  top: 350px;
+  width: 120px;
+  height: 30px;
+  background-color: greenyellow;
+  color: white;
+  border-radius: 20%;
+}
+.parent .N2 .n3 .button2 {
+  position: absolute;
+  left: 700px;
+  top: 350px;
+  width: 180px;
+  height: 30px;
+  background-color: rgb(159, 159, 159);
+  color: white;
+  border-radius: 20%;
+}
+.parent .N2 .blokEE {
+  width: 1200px;
+  height: 900px;
+  position: absolute;
+  top: 1000px;
+  right: 10px;
+}
+.parent .N2 .blokEE .plus {
+  font-size: 25px;
+  color: white;
+  margin-left: 520px;
+}
+.parent .N2 .blokEE .blokR1 {
+  margin-left: 50px;
+  margin-top: 170px;
+}
+.parent .N2 .blokEE .blokR1 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blokEE .blokR1 .gray1 .con {
+  padding-top: 60px;
+  color: rgb(93, 92, 92);
+  width: 430px;
+  top: 50px;
+}
+.parent .N2 .blokEE .blokR2 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blokEE .blokR2 .gray1 .con {
+  padding-top: 60px;
+  color: rgb(93, 92, 92);
+  width: 430px;
+  top: 50px;
+}
+.parent .N2 .blokEE .blokR3 {
+  position: absolute;
+  bottom: 420px;
+  left: 650px;
+}
+.parent .N2 .blokEE .blokR3 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blokEE .blokR3 .gray1 .con {
+  padding-top: 60px;
+  color: rgb(93, 92, 92);
+  width: 430px;
+  top: 50px;
+}
+.parent .N2 .blokEE .blokR4 {
+  position: absolute;
+}
+.parent .N2 .blokEE .blokR4 .gray1 {
+  border-radius: 10px;
+  width: 450px;
+  height: 250px;
+  background-color: rgb(36, 36, 36);
+}
+.parent .N2 .blokEE .blokR4 .gray1 .con {
+  padding-top: 60px;
+  color: rgb(93, 92, 92);
+  width: 430px;
+  top: 50px;
+}
+.parent .N2 .n4 {
+  width: 1800px;
+  height: 650px;
+  position: absolute;
+  right: 10px;
+  top: 700px;
+}
+.parent .N2 .n4 .p9 {
+  margin-left: 1300px;
+  color: white;
+  font-size: 30px;
+}
+.parent .N2 .n4 .T1 {
+  width: 350px;
+  height: 430px;
+  position: absolute;
+  left: 800px;
+  top: 100px;
+  background-color: rgb(38, 38, 38);
+}
+.parent .N2 .n4 .T1 i {
+  border-radius: 100%;
+  font-size: 50px;
+  padding: 25px;
+  margin-left: 120px;
+  background-color: greenyellow;
+}
+.parent .N2 .n4 .T1 .p10 {
+  font-size: 20px;
+  color: white;
+  margin-left: 120px;
+}
+.parent .N2 .n4 .T1 .p11 {
+  width: 230px;
+  margin-left: 60px;
+  color: gray;
+}
+.parent .N2 .n4 .T1 .AOE {
+  color: rgb(180, 255, 68);
+  margin-left: 120px;
+}
+.parent .N2 .n4 .T2 {
+  width: 350px;
+  height: 390px;
+  position: absolute;
+  left: 1200px;
+  top: 100px;
+  background-color: rgb(38, 38, 38);
+}
+.parent .N2 .n4 .T2 i {
+  border-radius: 100%;
+  font-size: 50px;
+  padding: 25px;
+  margin-left: 120px;
+  background-color: greenyellow;
+}
+.parent .N2 .n4 .T2 .p10 {
+  font-size: 20px;
+  color: white;
+  margin-left: 60px;
+}
+.parent .N2 .n4 .T2 .p11 {
+  width: 210px;
+  margin-left: 90px;
+  color: gray;
+}
+.parent .N2 .n4 .T2 .AOE {
+  color: rgb(180, 255, 68);
+  margin-left: 120px;
+}
+.parent .N2 .n4 .T3 {
+  width: 350px;
+  height: 430px;
+  position: absolute;
+  left: 1600px;
+  top: 100px;
+  background-color: rgb(38, 38, 38);
+}
+.parent .N2 .n4 .T3 i {
+  border-radius: 100%;
+  font-size: 50px;
+  padding: 25px;
+  margin-left: 120px;
+  background-color: greenyellow;
+}
+.parent .N2 .n4 .T3 .p10 {
+  font-size: 20px;
+  color: white;
+  margin-left: 120px;
+}
+.parent .N2 .n4 .T3 .p11 {
+  width: 230px;
+  margin-left: 60px;
+  color: gray;
+}
+.parent .N2 .n4 .T3 .AOE {
+  color: rgb(180, 255, 68);
+  margin-left: 120px;
+}
+.parent .N2 .n5 {
+  width: 100vw;
+  height: 100vh;
+  border: solid white;
+  position: absolute;
+  top: 1500px;
+  right: 10px;
+}
+.parent .N2 .n5 .p12 {
+  position: absolute;
+  left: 1000px;
+  font-size: 25px;
+  color: white;
+}
+.parent .N2 .n5 .M1 {
+  width: 350px;
+  height: 500px;
+  background-color: rgb(37, 37, 37);
+  position: absolute;
+  left: 500px;
+}
+.parent .N2 .n5 .M1 .V1 {
+  width: 300px;
+  margin-left: 500px;
+  background: url();
+}/*# sourceMappingURL=index.css.map */

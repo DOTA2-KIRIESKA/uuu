@@ -1,0 +1,493 @@
+.parent{
+    background-color: rgb(62, 62, 62);
+    // width: 100vw;
+    // height: 100vh;
+    .HOME{
+        position: fixed;
+        width: 100vw;
+        height: 80px;
+        background-color: white;
+        .p1{
+            color: black;
+            margin-left: 500px;
+            .span1{
+                color: yellowgreen;
+            }
+            span{
+                margin-left: 30px;
+            }
+        }
+    }
+    .N1{
+            background-color: gray;
+            width: 100vw;
+            height: 100vh;
+            p{
+                color: white;
+                position: absolute;
+            }
+            .p2{
+                top: 100px;
+                left: 650px;
+                font-size: 50px;
+            }
+            .p3{
+                top: 150px;
+                left: 520px;
+                font-size: 70px;
+            }
+            .p4{
+                top: 300px;
+                left: 660px;
+            }
+    }
+    .N2{
+        width: 100vw;
+        height: 620vh;
+        position: relative;
+        background-color: rgb(45, 45, 45);
+        .p5{
+            color: white;
+            font-size: 30px;
+            position: absolute;
+            left: 650px;
+        }
+        .st1{
+            color: white;
+            font-size: 25px;
+            position: absolute;
+            left: 200px;
+            top: 100px;
+        }
+        .st2{
+            color: white;
+            font-size: 25px;
+            position: absolute;
+            left: 900px;
+            top: 100px;
+        }
+        .blok1{
+            position: absolute;
+            top: 200px;
+            left: 170px;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok2{
+            position: absolute;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok3{
+            position: absolute;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok4{
+            position: absolute;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok5{
+            position: absolute;
+            left: 700px;
+            bottom: 790px;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok6{
+            position: absolute;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok7{
+            position: absolute;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .blok8{
+            position: absolute;
+            .gray1{
+                border-radius: 10px;
+                width: 450px;
+                height: 250px;
+                background-color: rgb(36, 36, 36);
+                .cal{
+                    font-size: 13px;
+                    color: white;
+                }
+                .green{
+                    color: greenyellow;
+                }
+               .con{
+                    color: rgb(93, 92, 92);
+                    width: 430px;
+               } 
+            }
+        }
+        .n3{
+            position: absolute;
+            width: 1000px;
+            height: 520px;
+            right: 100px;
+            top: 450px;
+            .fot{
+                position: absolute;
+                top: 50px;
+                width: 500px;
+                height: 400px;
+                background-color: white;
+            }
+            .p6{
+                position: absolute;
+                font-size: 30px;
+                color: white;
+                left: 650px;
+            }
+            .p7{
+                position: absolute;
+                width: 400px;
+                font-size: 25px;
+                color: gray;
+                left: 540px;
+                top: 80px;
+            }
+            .p8{
+                position: absolute;
+                width: 400px;
+                color: gray;
+                left: 540px;
+                top: 220px;
+            }
+            .button1{
+                position: absolute;
+                left: 550px;
+                top: 350px;
+                width: 120px; 
+                height: 30px;
+                background-color: greenyellow;
+                color: white;
+                border-radius: 20%;
+            }
+           .button2{
+            position: absolute;
+            left: 700px;
+            top: 350px;
+            width: 180px; 
+            height: 30px;
+            background-color: rgb(159, 159, 159);
+            color: white;
+            border-radius: 20%;
+           } 
+        }
+        .blokEE{
+            width: 1200px;
+            height: 900px;
+            position: absolute;
+            top: 1000px;
+            right: 10px;
+            .plus{
+                font-size: 25px;
+                color: white;
+                margin-left: 520px;
+            }
+            .blokR1{
+                // position: absolute;
+                margin-left: 50px;
+                margin-top: 170px;
+                .gray1{
+                    border-radius: 10px;
+                    width: 450px;
+                    height: 250px;
+                    background-color: rgb(36, 36, 36);
+                   .con{
+                    padding-top: 60px;
+                        color: rgb(93, 92, 92);
+                        width: 430px;
+                        top: 50px;
+                   } 
+                }
+            }
+            .blokR2{
+                // position: absolute;
+                .gray1{
+                    border-radius: 10px;
+                    width: 450px;
+                    height: 250px;
+                    background-color: rgb(36, 36, 36);
+                   .con{
+                    padding-top: 60px;
+                        color: rgb(93, 92, 92);
+                        width: 430px;
+                        top: 50px;
+                   } 
+                }
+            }
+            .blokR3{
+                position: absolute;
+                bottom: 420px;
+                left: 650px;
+                .gray1{
+                    border-radius: 10px;
+                    width: 450px;
+                    height: 250px;
+                    background-color: rgb(36, 36, 36);
+                   .con{
+                    padding-top: 60px;
+                        color: rgb(93, 92, 92);
+                        width: 430px;
+                        top: 50px;
+                   } 
+                }
+            }
+            .blokR4{
+                position: absolute;
+                .gray1{
+                    border-radius: 10px;
+                    width: 450px;
+                    height: 250px;
+                    background-color: rgb(36, 36, 36);
+                   .con{
+                        padding-top: 60px;
+                        color: rgb(93, 92, 92);
+                        width: 430px;
+                        top: 50px;
+                   } 
+                }
+            }
+    
+        }
+        .n4{
+            width: 1800px;
+            height: 650px;
+            position: absolute;
+            right: 10px;
+            top: 700px;
+            .p9{
+                margin-left: 1300px;
+                color: white;
+                font-size: 30px;
+            }
+            .T1{
+                width: 350px;
+                height: 430px;
+                position: absolute;
+                left: 800px;
+                top: 100px;
+                background-color: rgb(38, 38, 38);
+                i{
+                    border-radius: 100%;
+                    font-size: 50px;
+                    padding: 25px;
+                    margin-left: 120px;
+                    background-color: greenyellow;
+                }
+                .p10{
+                    font-size: 20px;
+                    color: white;
+                    margin-left: 120px;
+                }
+                .p11{
+                    width: 230px;
+                    margin-left: 60px;
+                    color: gray;
+                }
+                .AOE{
+                    color: rgb(180, 255, 68);
+                    margin-left: 120px;
+                }
+            }
+            .T2{
+                width: 350px;
+                height: 390px;
+                position: absolute;
+                left: 1200px;
+                top: 100px;
+                background-color: rgb(38, 38, 38);
+                i{
+                    border-radius: 100%;
+                    font-size: 50px;
+                    padding: 25px;
+                    margin-left: 120px;
+                    background-color: greenyellow;
+                }
+                .p10{
+                    font-size: 20px;
+                    color: white;
+                    margin-left: 60px;
+                }
+                .p11{
+                    width: 210px;
+                    margin-left: 90px;
+                    color: gray;
+                }
+                .AOE{
+                    color: rgb(180, 255, 68);
+                    margin-left: 120px;
+                }
+            }
+            .T3{
+                width: 350px;
+                height: 430px;
+                position: absolute;
+                left: 1600px;
+                top: 100px;
+                background-color: rgb(38, 38, 38);
+                i{
+                    border-radius: 100%;
+                    font-size: 50px;
+                    padding: 25px;
+                    margin-left: 120px;
+                    background-color: greenyellow;
+                }
+                .p10{
+                    font-size: 20px;
+                    color: white;
+                    margin-left: 120px;
+                }
+                .p11{
+                    width: 230px;
+                    margin-left: 60px;
+                    color: gray;
+                }
+                .AOE{
+                    color: rgb(180, 255, 68);
+                    margin-left: 120px;
+                }
+            }
+        }
+        .n5{
+            width: 100vw;
+            height: 100vh;
+            border: solid white;
+            position: absolute;
+            top: 1500px;
+            right: 10px;
+            .p12{
+                position: absolute;
+                left: 1000px;
+                font-size: 25px;
+                color: white;
+            }
+            .M1{
+                width: 350px;
+                height: 500px;
+                background-color: rgb(37, 37, 37);
+                position: absolute;
+                left: 500px;
+                .V1{
+                    width: 300px;
+                    // position: absolute;
+                    // left: 400px;
+                    margin-left: 500px;
+                    background: url();
+                }
+            }
+        }
+    }
+}
